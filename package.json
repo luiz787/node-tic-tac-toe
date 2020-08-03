@@ -1,0 +1,8 @@
+{
+  "name": "node-tictactoe",
+  "version": "1.0.0",
+  "main": "tictactoe.js",
+  "license": "MIT",
+  "private": true,
+  "type": "module"
+}
