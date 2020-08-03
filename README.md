@@ -2,4 +2,6 @@
 
 ## How to run
 
-node tictactoe.js
+You need Node.js >= 13 to run this game.
+
+> node tictactoe.js
